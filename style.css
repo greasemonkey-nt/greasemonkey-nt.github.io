@@ -151,12 +151,12 @@ button:hover:before {
 }
 
 .box {
-  max-width: 300px;
+  max-width: 400px;
   max-height: 300px;
   justify-self: center;
   overflow: hidden;
   border: 10px solid #fff;
-  background-image: linear-gradient(to top, #1a1919 20%, #d0dada 80%);
+  background-image: linear-gradient(to top, #4d086d 20%, #e5ee98 80%);
   animation: ava-animate 10s infinite ;
   box-shadow: 10px 10px 30px rgba(49, 49, 49, 0.5);
 }
@@ -219,7 +219,7 @@ button:hover:before {
   }
 
   50% {
-    border-radius: 50% 50% 50% 50% / 50% 50% 50% 50%;
+    border-radius: 25% 55% 25% 55% / 65% 15% 65% 15%;
   }
 
   75% {
