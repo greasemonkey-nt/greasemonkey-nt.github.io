@@ -152,7 +152,7 @@ button:hover:before {
 
 .box {
   max-width: 400px;
-  max-height: 300px;
+/*   max-height: 300px; */
   justify-self: center;
   overflow: hidden;
   border: 10px solid #fff;
