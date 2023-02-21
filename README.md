@@ -1,4 +1,4 @@
 ## Сайт визитка / Business Card
 - QA Тестировщик
-- Николай Тарасов/Nikolai tarasov
+- Николай Тарасов/Nikolai Tarasov
 - Сайт в разработке...
