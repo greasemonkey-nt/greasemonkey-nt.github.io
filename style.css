@@ -141,7 +141,7 @@ button:hover:before {
   overflow: hidden;
   border: 10px solid #fff;
   background-image: linear-gradient(to top, #4d086d 20%, #e5ee98 80%);
-  animation: ava-animate 10s infinite ;
+  animation: ava-animate 20s infinite ;
   box-shadow: 10px 10px 30px rgba(49, 49, 49, 0.5);
 }
 
