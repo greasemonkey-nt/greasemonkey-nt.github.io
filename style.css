@@ -207,7 +207,7 @@ button:hover:before {
   }
 
   45% {
-    border-radius: 72% 28% 69% 31% / 65% 49% 51% 35%   ;  
+    border-radius: 64% 36% 67% 33% / 60% 40% 60% 40%    ;  
   }
   
   60% {
@@ -223,13 +223,14 @@ button:hover:before {
   }
 
   90% {
-    border-radius: 53% 27% 73% 47% / 60% 40% 55% 45%; 
+    border-radius: 36% 64% 67% 33% / 64% 53% 47% 36%; 
   }
 
   100% {
     border-radius: 0% 100% 0% 100% / 100% 0% 100% 0%; 
   }
 }  
+  
 
 @keyframes ava-bg {
   from {
